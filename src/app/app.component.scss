@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    grid-template-columns: 50% auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.color-dark {
+    background: rgb(231, 181, 44);
+}
